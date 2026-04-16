@@ -38,5 +38,9 @@ User account successfully created and configured with required access. Employee 
 
 ## 📸 Screenshots
 
-![Ticket](assets/ticket.png)
+![Ticket](OB-Ticket.PNG)
+![Chat](OB-chat.PNG)
+![creation](OB-user-creation.PNG)
+![grouping](OB-grouping.PNG)
+![closed](OB-Ticket-Closed.PNG)
 
